@@ -84,7 +84,7 @@ img{
 }
 img:hover{
     transform: scale(1.1);
-    cursor: pointer;
+    cursor:zoom-in;
     transition: 0.5s;
 }
 
